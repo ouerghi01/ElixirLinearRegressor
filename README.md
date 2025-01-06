@@ -30,13 +30,13 @@ cd ElixirLinearRegressor
 2. Start the Elixir Interactive Shell:
 
    ```bash
-   iex -S mix
+   elixir main.ex
    ```
 
 3. Run the linear regression training:
 
    ```elixir
-   LinearRegression.train()
+    MainApp.main()
    ```
 
 ## 🧠 How It Works
@@ -121,6 +121,5 @@ Potential improvements and future directions for this project include:
 
 ## 📞 Contact
 
-For any questions or inquiries, please reach out to the project maintainer at [your-email@example.com].
-
+For any questions or inquiries, please reach out to the project maintainer at werghia.1@gmail.com
 Happy coding!
